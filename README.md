@@ -1,6 +1,6 @@
 
 # Hi, I'm Witek! 👋
-I am a student at the University of Bielsko-Biala, currently in my 7th semester.
+I’m a Computer Science Engineering graduate from the University of Bielsko-Biała. I enjoy building software and learning new technologies.
 
 ## 🚀 About Me
 
